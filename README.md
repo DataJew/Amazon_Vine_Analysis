@@ -12,7 +12,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 2. ***Deliverable 2:*** Determine Bias of Vine Reviews
 3. ***Deliverable 3:*** A Written Report on the Analysis [`README.md`](https://github.com/DataJew/Amazon_Vine_Analysis)
 
-### RESULTS
+### RESULTS & SUMMARY
 
 ***How many Vine reviews and non-Vine reviews were there?***
 
@@ -26,15 +26,8 @@ This new assignment consists of two technical analysis deliverables and a writte
 ![R2.3](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R2.3.png)
 
 
-### SUMMARY
-
-
-1. The majority of reviews for Furniture product are almost nothing or lower results from Vine participants: **99.6% are Non-Vine**.  
-2. And overall of all 5 Star reviews are also the same as the Furniture, all are from Vine participants: **99.7% of all 5-star reviews are non-Vine**.
-3. But we need to highlight that not all of the 5 Star reviews are coming from Vine participants.
-
 ## ADDITIONAL ANALYSIS
 
-4. Due to these results, creating a dataset that focuses soley on Vine products may provide meaningful insight(s).
+4. A breakdown of the ratings may provide meaningful insight(s).
 
 ![R4](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R4.png)
