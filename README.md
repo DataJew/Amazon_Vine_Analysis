@@ -32,7 +32,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ### ADDITIONAL ANALYSIS
 
-4. A breakdown of the ratings may provide meaningful insight(s).
+* A breakdown of the ratings may provide meaningful insight(s).
 
 
 ![R4](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R4.png)
