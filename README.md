@@ -15,12 +15,14 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 ***How many Vine reviews and non-Vine reviews were there?***
 
+
 ![R1](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R1.png)
 
 
 ***How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?***
 
 ***What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?***
+
 
 ![R2.3](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R2.3.png)
 
@@ -31,5 +33,6 @@ This new assignment consists of two technical analysis deliverables and a writte
 ### ADDITIONAL ANALYSIS
 
 4. A breakdown of the ratings may provide meaningful insight(s).
+
 
 ![R4](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R4.png)
