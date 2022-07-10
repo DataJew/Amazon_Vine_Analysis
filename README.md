@@ -31,7 +31,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 ## Summary
 
 * Of all the reviews for Furniture products *(792,133)*, only **0.4% (2,775)** are from Vine particpants.
-* Of all the 5-star reviews *(447,716)*, **0.7% (136)** are from Vine particpants, with **99.3% (18,019)** from non-Vine particpants
+* Of all the 5-star reviews *(447,716)*, **0.03% (1356)** are from Vine particpants, with **99.7% (446,360)** from non-Vine particpants
 
 
 
