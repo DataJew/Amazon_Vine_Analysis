@@ -27,7 +27,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 ![R2.3](https://github.com/DataJew/Amazon_Vine_Analysis/blob/main/Resources/images/R2.3.png)
 
 
-* It is important to highlight that not all of the 5 Star reviews are coming from paid, Vine participants.
+*It is important to highlight that not all of the 5 Star reviews are coming from paid, Vine participants.
 
 
 ### ADDITIONAL ANALYSIS
