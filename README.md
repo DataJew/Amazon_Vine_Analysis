@@ -35,7 +35,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 
 
 
-### ADDITIONAL ANALYSIS
+***Additional Analysis***
 
 A new dataset exclusivly for Vine products can provide a more meaningful breakdown of ratings to support the positive bias for reviews in the Vine program.
 
