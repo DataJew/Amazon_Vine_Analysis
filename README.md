@@ -12,7 +12,7 @@ This new assignment consists of two technical analysis deliverables and a writte
 2. ***Deliverable 2:*** Determine Bias of Vine Reviews
 3. ***Deliverable 3:*** A Written Report on the Analysis [`README.md`](https://github.com/DataJew/Amazon_Vine_Analysis)
 
-## RESULTS & SUMMARY
+## Results & Summation
 
 ***How many Vine reviews and non-Vine reviews were there?***
 
